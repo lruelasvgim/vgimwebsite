@@ -71,7 +71,7 @@ $space_class = '';
 						 * constant in your child theme's function.php file.
 						 */
 						if ( ! defined( 'BAVOTASAN_SEE_MORE' ) )
-							define( 'BAVOTASAN_SEE_MORE', __( 'See More', 'arcade' ) );
+							define( 'BAVOTASAN_SEE_MORE', __( 'PRESS START', 'arcade' ) );
 						?>
     					<a href="#" id="more-site" class="btn btn-default btn-lg"><?php echo BAVOTASAN_SEE_MORE; ?></a>
     				</div>
