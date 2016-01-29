@@ -3818,11 +3818,11 @@ input, textarea {
     position: relative;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
     padding-top: 30px;
-    width: 100%;
-    position: absolute;
    }
   .only-on-home #site-meta {
-    padding-top: 0; }
+    padding-top: 0;
+    width: 100%;
+    position: absolute; }
   #site-meta i {
     color: #fff;
     font-size: 60px;
@@ -3898,7 +3898,7 @@ input, textarea {
   line-height: 1;
   color: #fff; }
   #site-description.margin-top {
-    margin-top: 30%; }
+    margin-top: 34%; }
 
 #more-site {
   margin-top: 50px;
