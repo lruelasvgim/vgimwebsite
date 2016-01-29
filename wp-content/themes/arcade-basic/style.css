@@ -3819,7 +3819,10 @@ input, textarea {
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
     padding-top: 30px;
    }
-  .only-on-home #site-meta {
+  .only-on-home #site-meta,
+  header.author #site-meta,
+  header.date #site-meta,
+  header.category #site-meta{ 
     padding-top: 0;
     width: 100%;
     position: absolute; }
