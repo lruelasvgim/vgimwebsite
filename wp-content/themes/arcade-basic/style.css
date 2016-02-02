@@ -3823,7 +3823,7 @@ input, textarea {
   header.author #site-meta,
   header.date #site-meta,
   header.category #site-meta,
-  header.tag #site-meta{{ 
+  header.tag #site-meta{
     padding-top: 0;
     width: 100%;
     position: absolute; }
