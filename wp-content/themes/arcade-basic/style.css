@@ -3043,6 +3043,8 @@ input[type="button"].btn-block {
   margin-top: 15px;
   margin-bottom: 15px; }
   @media (min-width: 768px) {
+    #videoHeader{display: block;}
+    #imageHeader{display: none;}
     .navbar-text {
       float: left;
       margin-left: 20px;
@@ -3984,6 +3986,8 @@ input, textarea {
 .admin-bar .navbar-fixed-top {
   top: 32px; }
   @media (max-width: 768px) {
+    #videoHeader{display: none;}
+    #imageHeader{display: block;}
     .admin-bar .navbar-fixed-top {
       top: 46px; } }
 @media (max-width: 480px) {
