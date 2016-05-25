@@ -575,7 +575,7 @@ function bavotasan_header_images() {
 		if ( $header_image = get_header_image() ) :
 			?>
 			<video id="videoHeader" class="slider-video" preload="auto" autoplay="" style="visibility: visible; width: 100%; height: auto; "><source type="video/webm" src="http://vgim.com.mx/wp-content/uploads/2016/01/Logo_Intro.webm"></video>
-			<img id="imageHeader" src="/wp-content/uploads/2016/01/VGIM_TIENDA.png" class="slider-image-mobile" style="visibility: visible; width: 100%; height: auto; ">
+			<img id="imageHeader" src="http://vgim.com.mx/wp-content/uploads/2016/01/VGIM_TIENDA.png" class="slider-image-mobile" style="visibility: visible; width: 100%; height: auto; ">
 			<?php
 		endif;
 	}
