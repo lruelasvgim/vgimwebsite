@@ -3827,6 +3827,7 @@ input, textarea {
   header.category #site-meta,
   header.tag #site-meta,
   header.home #site-meta,
+  header.page #site-meta,
   header.single #site-meta{
     padding-top: 0;
     width: 100%;
